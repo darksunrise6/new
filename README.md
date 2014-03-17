@@ -1,0 +1,4 @@
+new
+===
+
+theme for wordpres
